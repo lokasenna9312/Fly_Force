@@ -65,10 +65,6 @@ https://freemusicarchive.org/music/8bit_Betty/too_bleep_to_bloop/hc152_04_spooky
 
 English Announcement (Translated and Formatted by Google Gemini)
 
-============================================================
-           GAME INSTRUCTIONS & PROJECT INFORMATION
-============================================================
-
 [ CONTROLS ]
 ------------------------------------------------------------
 - Movement : Arrow Keys or W, A, S, D
