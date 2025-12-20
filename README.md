@@ -40,28 +40,21 @@ Written by Myself.
 https://www.inflearn.com/course/%EA%B2%8C%EC%9D%B4%EB%A8%B8tv-%EC%9C%A0%EB%8B%88%ED%8B%B0-%EC%9E%85%EB%AC%B8-%EA%B2%8C%EC%9E%84%EC%A0%9C%EC%9E%91/dashboard
 
 2. 에셋 습득처
- - 실드 관련 효과음 : Unity Asset Store의 Retro Sci-Fi Pack 중
-   /Compressed/Medium swell 03.ogg
-   /Compressed/Medium swell 01.ogg
-https://assetstore.unity.com/packages/audio/sound-fx/retro-sci-fi-pack-61781
+ - 실드 관련 효과음 : Unity Asset Store의 Retro Sci-Fi Pack https://assetstore.unity.com/packages/audio/sound-fx/retro-sci-fi-pack-61781
+    - /Compressed/Medium swell 03.ogg
+    - /Compressed/Medium swell 01.ogg
  - 게이머TV님이 위 강의에서 제공해주신 에셋들
-그림 애셋은 게이머TV님이 직접 만드신 거라고 합니다.
- - 구글에서 찾은 에너지 실드 사진
-https://opengameart.org/content/shield-effect
- - 아이템 획득 사운드
-https://freesound.org/people/GabrielAraujo/sounds/242501/
- - 폭발음
-https://freesound.org/people/bareform/sounds/218721/
+   그림 애셋은 게이머TV님이 직접 만드신 거라고 합니다.
+ - 구글에서 찾은 에너지 실드 사진 https://opengameart.org/content/shield-effect
+ - 아이템 획득 사운드 https://freesound.org/people/GabrielAraujo/sounds/242501/
+ - 폭발음 https://freesound.org/people/bareform/sounds/218721/
  - 적 기체 탄환 피격음
-https://freesound.org/people/Rudmer_Rotteveel/sounds/336005/
- - Laser by Daleonfire 사운드 소스를 재가공함
-https://freesound.org/people/Daleonfire/sounds/376694/
- - Laser Machine Gun by Sonically 사운드 소스를 재가공함
-https://freesound.org/people/sonically_sound/sounds/612875/
- - Explosion2 사운드 소스를 재가공함
-https://freesound.org/people/steveygos93/sounds/80401/
- - 게임 화면 BGM
-https://freemusicarchive.org/music/8bit_Betty/too_bleep_to_bloop/hc152_04_spooky_loop_by_8bit_betty/
+   https://freesound.org/people/Rudmer_Rotteveel/sounds/336005/
+ - 재가공된 소스
+     - Laser by Daleonfire https://freesound.org/people/Daleonfire/sounds/376694/
+     - Laser Machine Gun by Sonically https://freesound.org/people/sonically_sound/sounds/612875/
+     - Explosion2 사운드 소스 https://freesound.org/people/steveygos93/sounds/80401/
+ - 게임 화면 BGM https://freemusicarchive.org/music/8bit_Betty/too_bleep_to_bloop/hc152_04_spooky_loop_by_8bit_betty/
 
 3. 직접 작성한 요소
  - 실드의 작동에 관련된 코드
@@ -125,10 +118,9 @@ Translated and Formatted by Google Gemini.
    - Technical Assistance: Q&A with Google Gemini AI.
 
 2. Asset Sources
-   - Shield SFX: Retro Sci-Fi Pack (Unity Asset Store), and these 2 files below are used.
-     https://assetstore.unity.com/packages/audio/sound-fx/retro-sci-fi-pack-61781
-        /Compressed/Medium swell 03.ogg
-        /Compressed/Medium swell 01.ogg
+   - Shield SFX: Retro Sci-Fi Pack (Unity Asset Store), and these 2 files below are used. https://assetstore.unity.com/packages/audio/sound-fx/retro-sci-fi-pack-61781
+       - /Compressed/Medium swell 03.ogg
+       - /Compressed/Medium swell 01.ogg
    - Game Sprites: Provided by GamerTV (Original art by GamerTV).
    - Shield Sprite: Energy Shield Effect (OpenGameArt)
      https://opengameart.org/content/shield-effect
