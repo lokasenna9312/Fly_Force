@@ -65,6 +65,7 @@ Written by Myself.
  - 일반공격의 레벨과 대미지를 별개의 변수로 관리하기
  - 격추된 플레이어가 행동을 하지 못하게 만들기
  - 플레이어의 탄환이 화면에서 모두 사라져야 게임오버 화면이 나오게 만들기
+ - 격추된 플레이어의 기체가 관성에 의해서 격추 직전의 운동 상태를 유지하게 만들기
 
 English Announcement
 ------------------------------------------------------------
@@ -110,7 +111,7 @@ Translated and Formatted by Google Gemini.
 
 1. Credits
    This project was created through the following resources:
-   - Lecture: ["Entry-level Game Production for Beginners"](Link: https://www.inflearn.com/course/%EA%B2%8C%EC%9D%B4%EB%A8%B8tv-%EC%9C%A0%EB%8B%88%ED%8B%B0-%EC%9E%85%EB%AC%B8-%EA%B2%8C%EC%9E%84%EC%A0%9C%EC%9E%91/)
+   - Lecture: ["Entry-level Game Production for Beginners"](https://www.inflearn.com/course/%EA%B2%8C%EC%9D%B4%EB%A8%B8tv-%EC%9C%A0%EB%8B%88%ED%8B%B0-%EC%9E%85%EB%AC%B8-%EA%B2%8C%EC%9E%84%EC%A0%9C%EC%9E%91/)
      by GamerTV (Inflearn)     
    - Technical Assistance: Q&A with Google Gemini AI.
 
@@ -143,3 +144,4 @@ The following features were personally developed and implemented:
 - Independent variable management for attack levels and damage.
 - To make fallen player not be available to do actions.
 - To make GameOver scene only occurs when all of player's bullet are vanished from game scene.
+- To make the dead player's vessel move by inertia maintaining its pre-destruction momentum.
