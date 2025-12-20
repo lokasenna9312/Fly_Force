@@ -44,15 +44,15 @@ Written by Myself.
     - /Compressed/Medium swell 03.ogg
     - /Compressed/Medium swell 01.ogg
  - 게이머TV님이 위 강의에서 제공해주신 에셋들 : 그림 애셋은 게이머TV님이 직접 만드신 거라고 합니다.
- - [구글에서 찾은 에너지 실드 사진](https://opengameart.org/content/shield-effect)
- - [아이템 획득 사운드](https://freesound.org/people/GabrielAraujo/sounds/242501/)
- - [폭발음](https://freesound.org/people/bareform/sounds/218721/)
- - [적 기체 탄환 피격음](https://freesound.org/people/Rudmer_Rotteveel/sounds/336005/)
+ - Open Game Art의 에너지 실드 사진 : https://opengameart.org/content/shield-effect
+ - 아이템 획득 사운드 : https://freesound.org/people/GabrielAraujo/sounds/242501/
+ - 폭발음 : https://freesound.org/people/bareform/sounds/218721/
+ - 적 기체 탄환 피격음 : https://freesound.org/people/Rudmer_Rotteveel/sounds/336005/
  - 재가공된 소스
      - [Laser by Daleonfire](https://freesound.org/people/Daleonfire/sounds/376694/) 사운드 소스
      - [Laser Machine Gun by Sonically](https://freesound.org/people/sonically_sound/sounds/612875/) 사운드 소스
      - [Explosion2](https://freesound.org/people/steveygos93/sounds/80401/) 사운드 소스
- - [게임 화면 BGM](https://freemusicarchive.org/music/8bit_Betty/too_bleep_to_bloop/hc152_04_spooky_loop_by_8bit_betty/)
+ - 게임 화면 BGM : https://freemusicarchive.org/music/8bit_Betty/too_bleep_to_bloop/hc152_04_spooky_loop_by_8bit_betty/
 
 3. 직접 작성한 요소
  - 실드의 작동에 관련된 코드
