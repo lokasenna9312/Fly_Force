@@ -146,5 +146,3 @@ The following features were personally developed and implemented:
 - Independent variable management for attack levels and damage.
 - To make fallen player not be available to do actions.
 - To make GameOver scene only occurs when all of player's bullet are vanished from game scene.
-
-============================================================
