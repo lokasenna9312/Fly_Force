@@ -40,7 +40,7 @@ Written by Myself.
 
 
 2. 에셋 습득처
- - 실드 관련 효과음 : [Unity Asset Store의 Retro Sci-Fi Pack](https://assetstore.unity.com/packages/audio/sound-fx/retro-sci-fi-pack-61781)
+ - 실드 관련 효과음 : [Unity Asset Store의 Retro Sci-Fi Pack](https://assetstore.unity.com/packages/audio/sound-fx/retro-sci-fi-pack-61781) 중 다음의 2개 파일
     - /Compressed/Medium swell 03.ogg
     - /Compressed/Medium swell 01.ogg
  - 게이머TV님이 위 강의에서 제공해주신 에셋들 : 그림 애셋은 게이머TV님이 직접 만드신 거라고 합니다.
