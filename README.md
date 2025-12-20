@@ -14,11 +14,22 @@ Written by Myself.
 
 [ 시스템 ]
 ------------------------------------------------------------
-보스가 맵에 존재하지 않는 상태에서 5번의 웨이브를 거치면 보스가 출현합니다.
-2개의 잔기를 갖고 게임을 시작하며, 보스를 클리어한 상태에서 잔기가 2개보다 적으면 1개의 잔기가 추가됩니다.
-실드는 실드 발동 키를 다시 눌러 직접 해제하지 않는 이상 3초간 유지되며, 실드가 유지되어 있을 때는 공격, 아이템 습득이 불가능하고, 실드로 적을 격추시켰을 때는 점수가 들어오지 않습니다.
-리스폰 직후에는 실드가 1초간 작동되며, 이것도 직접 해제할 수 있습니다.
-실드를 작동시켰을 때와 총알, 폭탄이 1개의 적도 맞추지 못하고 맵 밖으로 사라졌을 때에는 감점됩니다.
+1. 보스 출현
+   - 보스가 없는 상태에서 5번의 웨이브가 진행되면 보스가 출현합니다.
+
+2. 잔기 시스템
+   - 2개의 잔기를 갖고 게임을 시작합니다.
+   - 보스를 격추햇을 때 잔기가 2개보다 적다면 1개의 잔기가 추가됩니다.
+
+3. 실드 원리
+   - 실드는 실드 키를 다시 눌러서 수동으로 해제하지 않으면 3초간 지속됩니다.
+   - 실드가 작동중일 때는 공격하거나 아이템을 얻을 수 없습니다.
+   - 실드에 의해 격추된 적은 점수를 제공하지 않습니다.
+   - 리스폰 시에도 1초간 실드가 작동됩니다. 이것도 수동으로 해제할 수 있습니다.
+
+4. 감점 상황
+   - 실드를 작동시킬 때.
+   - 총알이나 폭탄이 아무런 적도 맞히지 못하고 화면에서 사라질 때.
 
 [ 저작권 공지 ]
 ------------------------------------------------------------
@@ -94,16 +105,15 @@ Translated and Formatted by Google Gemini.
    - Defeating enemies with the shield will not grant points.
    - Shield will be active for 1 second when respawned. It can be turned off manually too.
 
-4. Penalty System
-   - Points are deducted when the shield is activated.
-   - Points are deducted if a bullet or bomb leaves the screen 
-     without hitting any enemies.
+4. Points Deduction
+   - When the shield is activated.
+   - When a bullet or bomb leaves the screen without hitting any enemies.
 
 
 [ COPYRIGHT & CREDITS ]
 ------------------------------------------------------------
 0. License
-   This game is an original work by 'Lokasenna9312', developed 
+   This game is an original work by Lokasenna9312, developed 
    using open-source resources, and is licensed under 
    CC BY-SA 4.0.
 
