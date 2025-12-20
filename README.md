@@ -58,6 +58,8 @@ https://freemusicarchive.org/music/8bit_Betty/too_bleep_to_bloop/hc152_04_spooky
  - HighScore 리셋, 현재 점수가 HighScore보다 높을 때 표시하는 기능
  - 클래스 캡슐화
  - 일반공격의 레벨과 대미지를 별개의 변수로 관리하기
+ - 격추된 플레이어가 행동을 하지 못하게 만들기
+ - 플레이어의 탄환이 화면에서 모두 사라져야 게임오버 화면이 나오게 만들기
 
 =======================================================================
 
@@ -143,5 +145,7 @@ The following features were personally developed and implemented:
 - High Score system (reset functionality and new high score display).
 - Class encapsulation and code refactoring.
 - Independent variable management for attack levels and damage.
+- To make fallen player not be available to do actions.
+- To make GameOver scene only occurs when all of player's bullet are vanished from game scene.
 
 ============================================================
