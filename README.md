@@ -8,9 +8,10 @@ Written by Myself.
 [ 조작법 ]
 ------------------------------------------------------------
 캐릭터 이동 : 방향키 또는 WASD
-공격 : 왼쪽 Shift
-실드 : 왼쪽 Ctrl
-폭탄 : Spacebar
+공격 : 왼쪽 Shift 또는 마우스 왼쪽 버튼
+실드 : 왼쪽 Ctrl 또는 마우스 가운데 버튼
+폭탄 : Spacebar 또는 마우스 오른쪽 버튼
+조이스틱으로도 조작할 수 있도록 코드는 짜놨는데, 테스트는 아직 안 해봤습니다.
 
 [ 시스템 ]
 ------------------------------------------------------------
@@ -74,10 +75,10 @@ Translated and Formatted by Google Gemini.
 [ CONTROLS ]
 ------------------------------------------------------------
 - Movement : Arrow Keys or W, A, S, D
-- Attack   : Left Shift
-- Shield   : Left Ctrl
-- Bomb     : Spacebar
-
+- Attack   : Left Shift or Left Button of Mouse 
+- Shield   : Left Ctrl or Middle Button of Mouse 
+- Bomb     : Spacebar or Right Button of Mouse 
+Not tested yet if this game is playable with JoyStick despite I coded to make it be able to.
 
 [ GAME SYSTEM ]
 ------------------------------------------------------------
