@@ -67,6 +67,7 @@ Written by Myself.
  - 격추된 플레이어가 행동을 하지 못하게 만들기
  - 플레이어의 탄환이 화면에서 모두 사라져야 게임오버 화면이 나오게 만들기
  - 격추된 플레이어의 기체가 관성에 의해서 격추 직전의 운동 상태를 유지하게 만들기
+ - 폭탄이 발사 후 2초 동안 가속되게 만들기 (Rigidbody2D에 Dynamic 속성을 부여함.)
 
 English Announcement
 ------------------------------------------------------------
@@ -146,3 +147,4 @@ The following features were personally developed and implemented:
 - To make fallen player not be available to do actions.
 - To make GameOver scene only occurs when all of player's bullet are vanished from game scene.
 - To make the dead player's vessel move by inertia maintaining its pre-destruction momentum.
+- To make bomb projectiles accelerate for 2 seconds after firing. (Granted Dynamic properties to Rigidbody2D)
